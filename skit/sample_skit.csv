@@ -1,0 +1,4 @@
+command,param,option1,option2,option3
+label,sample_talk,start,,
+text,テキスト,,,
+label,sample_talk,end,,
